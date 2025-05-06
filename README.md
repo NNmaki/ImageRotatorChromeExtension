@@ -1,4 +1,4 @@
-# ImageRotatorChromeExtension
+# Image Rotator - Chrome Extension
 
 ![image_rotator_1000x670_1](https://github.com/user-attachments/assets/554b6df7-7877-4ca5-ab95-46fd307d64f6)
 
