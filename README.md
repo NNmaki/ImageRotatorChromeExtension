@@ -21,13 +21,17 @@ Open-source and easy to modify
 
 ## 🧩 How to Install (Manual Installation)
 
-Download or clone this repository
+Download or clone this repository:
+
 -Click the green "Code" button above and select "Download ZIP", or clone it via Git:
+
 -git clone https://github.com/your-username/image-rotator.git
 Extract the ZIP (if downloaded) to a folder on your computer.
 
 -Open Chrome and go to chrome://extensions/
+
 -Enable Developer mode (toggle switch in the top right corner)
+
 -Click "Load unpacked" and select the folder where you extracted/cloned the extension.
 
 You're done! Now you can right-click on any image and use the "Rotate Image" option.
