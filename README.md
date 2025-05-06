@@ -22,12 +22,8 @@ Open-source and easy to modify
 ## 🧩 How to Install (Manual Installation)
 
 Download or clone this repository
-Click the green "Code" button above and select "Download ZIP", or clone it via Git:
-
-bash
-Kopioi
-Muokkaa
-git clone https://github.com/your-username/image-rotator.git
+-Click the green "Code" button above and select "Download ZIP", or clone it via Git:
+-git clone https://github.com/your-username/image-rotator.git
 Extract the ZIP (if downloaded) to a folder on your computer.
 
 -Open Chrome and go to chrome://extensions/
