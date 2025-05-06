@@ -1,5 +1,7 @@
 # ImageRotatorChromeExtension
 
+![image_rotator_1000x670_1](https://github.com/user-attachments/assets/554b6df7-7877-4ca5-ab95-46fd307d64f6)
+
 🌀 Image Rotator – Simple Chrome Extension
 Image Rotator is a minimal Chrome extension that allows you to rotate any image on a webpage directly in the browser. This is especially handy when you're comparing product images, like spare parts, and need to match angles visually.
 
