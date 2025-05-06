@@ -25,7 +25,8 @@ Download or clone this repository:
 
 -Click the green "Code" button above and select "Download ZIP", or clone it via Git:
 
--git clone https://github.com/your-username/image-rotator.git
+-git clone https://github.com/NNmaki/ImageRotatorChromeExtension.git
+
 Extract the ZIP (if downloaded) to a folder on your computer.
 
 -Open Chrome and go to chrome://extensions/
